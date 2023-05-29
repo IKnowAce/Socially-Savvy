@@ -2,14 +2,18 @@
 <html>
 <head>
   <title>My Simple HTML Page</title>
-  <link rel="stylesheet" type="text/css" href="styles.css/styles.css">
+  <style>
+    body {
+      background-color: red;
+    }
+  </style>
 </head>
 <body>
   <h1>Welcome to My Simple HTML Page</h1>
   <p>This is a basic HTML page.</p>
   
   <h2>Example Section</h2>
-  <p>This is an example section in the page.</p>
+  <p>This is an example section on the page.</p>
   
   <ul>
     <li>List item 1</li>
@@ -18,7 +22,7 @@
   </ul>
   
   <h2>Another Section</h2>
-  <p>Here's another section in the page.</p>
+  <p>Here's another section on the page.</p>
   
   <table>
     <tr>

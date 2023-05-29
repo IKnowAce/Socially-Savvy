@@ -3,7 +3,7 @@
 <head>
   <title>My Simple HTML Page</title>
 </head>
-  <link rel="stylesheet" type="text/css" main="styles.css">
+  <link rel="stylesheet" type="text/css" index.html="styles.css">
 <body>
   <h1>Welcome to My Simple HTML Page</h1>
   <p>This is a basic HTML page.</p>

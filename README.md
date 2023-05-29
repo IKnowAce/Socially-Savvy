@@ -3,6 +3,7 @@
 <head>
   <title>My Simple HTML Page</title>
 </head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 <body>
   <h1>Welcome to My Simple HTML Page</h1>
   <p>This is a basic HTML page.</p>
